@@ -1,4 +1,4 @@
-// fixing error
+// fixing errors
 function print () {
   return 'Hello World!!'
 }
