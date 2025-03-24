@@ -1,5 +1,5 @@
 const { print } = require('../index')
-
+// test
 describe('print', () => {
 	it('should return a string', () => {
 		expect(typeof print()).toBe('string')
